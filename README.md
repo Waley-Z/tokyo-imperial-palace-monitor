@@ -3,7 +3,7 @@
 This tool can be used to monitor the availability of reservations to [The Imperial Palace in Tokyo](https://sankan.kunaicho.go.jp/register/month/1001). It can work with Telegram Bot to interact with users.
 
 <p align="center">
-  <img src="README.assets/telegram-screenshot.jpeg" alt="telegram-screenshot" style="zoom:33%;" />
+  <img src="README.assets/telegram-screenshot.jpeg" alt="telegram-screenshot" width="33%;" />
 </p>
 
 ## Getting Started
